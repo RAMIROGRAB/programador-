@@ -2,3 +2,5 @@ lista almacen
 leche
 azucar
 yerba
+dentrifico
+hojas
